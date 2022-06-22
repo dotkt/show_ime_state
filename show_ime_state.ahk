@@ -31,7 +31,7 @@ IniRead, colorScheme, KorTooltip.ini, preferences, colorScheme, whiteOnBlack
 IniRead, isEngTooltipDisplayed, KorTooltip.ini, preferences, isEngTooltipDisplayed, 0
 
 ; labels
-IniRead, korTooltipLabel, KorTooltip.ini, labels, korTooltipLabel, KOR
+IniRead, korTooltipLabel, KorTooltip.ini, labels, korTooltipLabel,CHS
 IniRead, engUcaseTooltipLabel, KorTooltip.ini, labels, engUcaseTooltipLabel, ENG
 
 ; core
